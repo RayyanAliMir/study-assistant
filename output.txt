@@ -1,6 +1,0 @@
-Knowledge base has 4 chunks
-
-Question: Where does the Calvin cycle happen?
-Most relevant chunks:
-- The Calvin cycle uses ATP and NADPH to build glucose from CO2.
-- It occurs in chloroplasts, using chlorophyll.
